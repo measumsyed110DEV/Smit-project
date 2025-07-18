@@ -1,0 +1,11 @@
+#heading{
+    font-size: large;
+    color: brown;
+}
+#doggy{
+    border: 5px solid brown ;
+    align-content: center;
+    width: 500px;
+    display: block;
+}
+
